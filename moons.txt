@@ -1,5 +1,5 @@
 moons are like small planets.
 They go around bigger planets.
 
-Moons are square.
+Moons are square and sometimes a bit round.
 
